@@ -1,7 +1,7 @@
 # Hi, I'm Redeem<br>
 
 # 💫 About Me:
-🔭 Computer Science and Cyber Sec at LPU 🔭 I’m currently working on Job seeking website<br>👯 I’m looking to collaborate on  website developmenet<br>🤝 I’m looking for help with web scappers and algorithms for the site<br>🌱 I’m currently learning Rust<br>
+🔭 Computer Science and Cyber Sec at LPU <br>🔭 I’m currently working on Job seeking website<br>👯 I’m looking to collaborate on  website developmenet<br>🤝 I’m looking for help with web scappers and algorithms for the site<br>🌱 I’m currently learning Rust<br>
 
 
 ## 🌐 Socials:
